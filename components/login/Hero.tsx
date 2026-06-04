@@ -10,8 +10,8 @@ export default function Hero() {
             </h2>
 
             <p className="text-lg text-gray-600">
-                A place where builders share curiosities,
-                bugs, learnings and moments worth remembering.
+                {/* A place where builders share curiosities,
+                bugs, learnings and moments worth remembering. */}
             </p>
         </div>
     );
